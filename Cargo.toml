@@ -19,7 +19,7 @@ lazy_static = "1"
 [dependencies.prometheus]
 # FIXME: Use crates-io version when rust-prometheus 0.8 is released
 git = "https://github.com/renkai/rust-prometheus.git"
-rev = "5278aa60b9ce46577c431502f70ca61c821574e8"
+rev = "7a24734ed95a204f7c5c2b87252659172f8238ea"
 
 [dev-dependencies]
 criterion = "0.3"
